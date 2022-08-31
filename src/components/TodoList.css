@@ -1,0 +1,10 @@
+.todoStyleContainer{
+    border: 2px solid rgb(32, 135, 172);
+    width: 500px;
+    display: flex;
+    
+}
+
+div{ 
+    padding: 20px;
+}
